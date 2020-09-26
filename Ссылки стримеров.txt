@@ -1,0 +1,63 @@
+ProgramVersion 0.100
+UrlNewProgramVersion
+|1|
+https://www.youtube.com/channel/UCUlsaNej5VR25weIr_Hfmow
+Date 20210726
+|2|
+https://www.youtube.com/channel/UCPWZ9UkSu-p2jIXdtcWJmtw
+Date 20210726
+|3|
+https://www.youtube.com/channel/UCI8U8MN3cAzvmgCXNKSIX-A
+Date 20210723
+|4|
+https://www.youtube.com/channel/UCXzIoq5vdPgxnsisa4QljiA
+Date 20210726
+|5|
+https://www.youtube.com/channel/UCxwN6M2brd1jx5MhoNnnGeg
+Date 20210726
+|6|
+https://www.youtube.com/channel/UC1kbPSt9O6Oj6E2bY4bUX7Q
+Date 20210726
+|7|
+https://www.youtube.com/channel/UCmsEpP4RvdBh-SvUqB9XjnA
+Date 20210726
+|8|
+https://www.youtube.com/channel/UCuK8OOCmKkbUgNuSy2CVK1w
+Date 20210726
+|9|
+https://www.youtube.com/channel/UC-nBZTCXPn9jGR7gX9wXM3A
+Date 20210726
+|10|
+https://www.youtube.com/channel/UC-RAPjgnznl_ZTqH37EwQgA
+Date 20210726
+|11|
+https://goodgame.ru/user/1/
+Date 20210726
+|12|
+https://goodgame.ru/user/2/
+Date 20210726
+|13|
+https://goodgame.ru/user/3/
+Date 20210726
+|14|
+https://goodgame.ru/user/4/
+Date 20210726
+|15|
+https://goodgame.ru/user/5/
+Date 20210726
+|16|
+https://goodgame.ru/user/6/
+Date 20210726
+|17|
+https://goodgame.ru/user/7/
+Date 20210726
+|18|
+https://goodgame.ru/user/8/
+Date 20210726
+|19|
+https://goodgame.ru/user/9/
+Date 20210726
+|20|
+https://goodgame.ru/user/10/
+Date 20210726
+|21|
